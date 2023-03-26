@@ -2,9 +2,13 @@
 information about ip 
 
 # usage
-```require 'ipinfoapi' ```
+```
+require 'ipinfoapi' 
+```
 # install 
-```bash gem install ipinfoapi ```
+```bash 
+gem install ipinfoapi 
+```
 # doucment
 fist write this form
 ```
